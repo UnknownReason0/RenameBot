@@ -48,9 +48,8 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """<b>Hᴀɪ {} 👋,
-Tʜɪs Is Aɴ Aᴅᴠᴀɴᴄᴇᴅ Aɴᴅ Yᴇᴛ Pᴏᴡᴇʀꜰᴜʟ Rᴇɴᴀᴍᴇ Bᴏᴛ
-Usɪɴɢ Tʜɪs Bᴏᴛ 🤖 
+    START_TXT = """<b>Hey {} Bhai 👋,
+This Is Advance And Powerful Rename Bot 🤖 
 
 📥 Features -
   • Rename File Name
