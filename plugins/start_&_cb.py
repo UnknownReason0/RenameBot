@@ -73,7 +73,7 @@ async def cb_handler(client, query: CallbackQuery):
                 #⚠️ don't change source code & source link ⚠️ #
                 InlineKeyboardButton("Hacking Channel 🧑‍💻", url="https://t.me/UR_Hacking")
                 ],[
-                InlineKeyboardButton("Official Channel 🥰", url='https://t.me/Unknown_Reason')
+                InlineKeyboardButton("How To Use ✅", url='https://youtu.be/FZSwQZI9UJI')
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
@@ -85,9 +85,9 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("Hacking Channel 🧑‍💻", url="https://t.me/UR_Hacking")
+                InlineKeyboardButton("Official Channel 🤩", url="https://t.me/Unknown_Reason")
                 ],[
-                InlineKeyboardButton("Official Channel 🥰", url="https://t.me/Unknown_Reason")
+                InlineKeyboardButton("How To Use ✅", url="https://youtu.be/FZSwQZI9UJI")
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
@@ -101,7 +101,7 @@ async def cb_handler(client, query: CallbackQuery):
                 #⚠️ don't change source code & source link ⚠️ #
                 InlineKeyboardButton("Hacking Channel 🧑‍💻", url="https://t.me/UR_Hacking")
                 ],[
-                InlineKeyboardButton("Official Channel 🥰", url="https://t.me/Unknown_Reason")
+                InlineKeyboardButton("How To Use ✅", url="https://youtu.be/FZSwQZI9UJI")
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
